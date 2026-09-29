@@ -1,0 +1,12 @@
+# Notebooks of the chapters not published yet: remove a line to publish that chapter
+Chapter 2 - *
+Chapter 3 - *
+Chapter 4 - *
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# macOS and Dropbox
+.DS_Store
+*conflicted copy*
