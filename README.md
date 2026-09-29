@@ -1,6 +1,6 @@
-# Linear Algebra 2 — SUPSI
+# Linear Algebra 2 — DSAI, SUPSI
 
-Python code for the course **Linear Algebra 2** at SUPSI: the Jupyter notebooks used in class, and the Python template you will also find at the tests.
+Python code for the course **Linear Algebra 2** of the Bachelor in **Data Science and Artificial Intelligence (DSAI)** at SUPSI: the Jupyter notebooks used in class, and the Python template you will also find at the tests.
 
 ## Contents
 
